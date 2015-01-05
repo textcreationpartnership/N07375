@@ -111,8 +111,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:009412_0000_0F7404CEF9B6D760"/>
-            <pb facs="tcp:009412_0001_0F7404CFB7C6F228"/>
+            <pb facs="unknown:009412_0000_0F7404CEF9B6D760"/>
+            <pb facs="unknown:009412_0001_0F7404CFB7C6F228"/>
             <p>MINUTES OF CONFERENCES, HELD AT <hi>LANCASTER,</hi> In <hi>AUGUST,</hi> 1762. With the SACHEMS and WARRIORS of ſeveral Tribes of <hi>Northern</hi> and <hi>Weſtern</hi> INDIANS.</p>
             <p>
                <hi>PHILADELPHIA:</hi> Printed and Sold by B. FRANKLIN, and D. HALL, at the <hi>New-Printing-Office,</hi> near the Market. MDCCLXIII.</p>
@@ -120,7 +120,7 @@
       </front>
       <body>
          <div type="text">
-            <pb facs="tcp:009412_0002_0F7404D1B984BB40"/>
+            <pb facs="unknown:009412_0002_0F7404D1B984BB40"/>
             <head>Minutes of Conferences, <hi>&amp;c.</hi>
             </head>
             <div type="days_proceedings">
@@ -148,7 +148,7 @@
                </p>
                <p>"I the Bearer, <hi>Augus,</hi> Chief of the Nation, am, and ever have been, a Friend and Brother to the <hi>Engliſh,</hi> and to the Intereſt of <hi>Great-Britain,</hi> now wait upon your Excel<g ref="char:EOLhyphen"/>lency, by Agreement, to tranſact Affairs of Importance; and heartily rejoice that the <hi>Five Nations</hi> have agreed to, and (as I hear) have actually returned the <hi>Engliſh</hi> Priſoners, to enjoy the Liberties of their own Nation.—And I the ſaid <hi>Augus,</hi> Chief, with my whole Tribe, have ever been for Peace with the <hi>Engliſh</hi> Colonies in <hi>America,</hi> and have minded the Things of Religion, and of a private Life. And as true Friends to the Proteſtant Cauſe, we congratulate your Excellency, our Brother, and all the <hi>Britiſh</hi> Nation, on the various Con<g ref="char:EOLhyphen"/>queſts obtained againſt the common Enemy, and eſpecially on the total Reduction of <hi>Canada,</hi> with its Dependences, being greatly delighted with the happy Proſpect that now ariſes, with<g ref="char:EOLhyphen"/>out Clouds. As we rejoice to hear that the Priſoners are reſigned, ſo we hope a Peace will
 <pb n="4"
-                      facs="tcp:009412_0003_0F7404D2CA1C0EF8"
+                      facs="unknown:009412_0003_0F7404D2CA1C0EF8"
                       rendition="simple:additions"/>be eſtabliſhed between us, the <hi>Five Nations,</hi> and the <hi>Engliſh</hi> colonies on the Continent; a Peace that ſhall be laſting and undiſturbed, while the Waters run, and the Graſs grows.—We ſhould be glad to be informed of the State and Behaviour of our Brethren in <hi>Tuſcarora Valley,</hi> and to have ſome Directions about the Way, as we propoſe to make them a Viſit; and alſo ſhould be glad of a Paſs, or Recommendation in Writing, that we may be friendly received on the Way, and at the Valley.</p>
                <p>
                   <hi>I am your Brother, AUGUS, Chief."</hi>
@@ -218,7 +218,7 @@
                <p>
                   <hi>A String</hi> (260)</p>
                <p>
-                  <pb n="5" facs="tcp:009412_0004_0F7404D3796E2600"/>
+                  <pb n="5" facs="unknown:009412_0004_0F7404D3796E2600"/>
                   <hi>Brethren,</hi>
                </p>
                <p>It is now a great while ſince we have had the Pleaſure of meeting one another in Council, wherefore I take this Opportunity of condoling with you for the Loſſes you may have ſuſtained by the Death of any of your People, and with this String I gather up the Bones of our de<g ref="char:EOLhyphen"/>ceaſed Brethren, and bury them decently, according to the Cuſtom of our Forefathers.</p>
@@ -282,7 +282,7 @@
                   <hi>A String.</hi>
                </p>
                <p>
-                  <pb n="6" facs="tcp:009412_0005_0F7404D43A220CB0"/>
+                  <pb n="6" facs="unknown:009412_0005_0F7404D43A220CB0"/>
                   <hi>Brother,</hi>
                </p>
                <p>When our Grandfathers uſed to meet our Brethren, they cleanſed each others Hearts, and took away all Grief and Sorrow out of them:—By this String I do likewiſe clean your Hearts, and remove all Sorrow and Grief from them, and ſtrengthen your Breath, that you may ſpeak more freely to your Brothers here before you.</p>
@@ -331,7 +331,7 @@
                   <hi>A Belt.</hi>
                </p>
                <p>
-                  <pb n="7" facs="tcp:009412_0006_0F7404D505B75160"/>
+                  <pb n="7" facs="unknown:009412_0006_0F7404D505B75160"/>
                   <hi>Brother,</hi>
                </p>
                <p>I have no more to ſay at preſent; I ſhall wait to hear what you have to ſay to us at ano<g ref="char:EOLhyphen"/>ther Time. You deſired me to bring other Nations of <hi>Indians</hi> with me, and I have brought them a great Way, who alſo wait to hear what you have to ſay.</p>
@@ -386,7 +386,7 @@
             </div>
             <div type="days_proceedings">
                <pb n="8"
-                   facs="tcp:009412_0007_0F7404D6520E73A8"
+                   facs="unknown:009412_0007_0F7404D6520E73A8"
                    rendition="simple:additions"/>
                <head>
                   <hi>At a</hi> CONFERENCE with the Indians, <hi>held at</hi> Lancaſter, <hi>on</hi> Saturday <hi>the Fourteenth of</hi> Auguſt, 1762.</head>
@@ -494,7 +494,7 @@
                </p>
                <p>Before I take Notice of what you ſaid Yeſterday, let me remind you of the ſtrict Friend<g ref="char:EOLhyphen"/>ſhip which was eſtabliſhed with your Forefathers, by our old Proprietor <hi>William Penn,</hi> on his firſt Arrival in this Country, and how happily it ſubſiſted between them and their Chil<g ref="char:EOLhyphen"/>dren, till the Troubles which unfortunately broke out ſome few Years ago, and ſtopt up the Road between us. The many Meſſages which we have ſince, from Time to Time, ſent you, by <hi>Frederick Poſt</hi> and <hi>Teedyuſcung,</hi> and the great Pains we have taken to drive away the Evil Spirit, plainly ſhew how ſincerely we have been diſpoſed to renew that Friendſhip.</p>
                <p>
-                  <pb n="9" facs="tcp:009412_0008_0F7404D6B5E47E58"/>
+                  <pb n="9" facs="unknown:009412_0008_0F7404D6B5E47E58"/>
                   <hi>Brethren,</hi>
                </p>
                <p>You acquainted me, that after receiving our firſt Meſſage about Place, which was about four Years ago, you made it known to all the <hi>Indian</hi> Nations on this Side, and over the Lakes, who were glad to hear the good News; and as we deſired you to deliver up our Fleſh and Blood, you ſay that you have, from Time to Time, delivered up many at <hi>Fort-Pitt,</hi> to the Commanding Officer, and to Mr. <hi>Croghan,</hi> and that you now have brought in a few, which you delivered to me Yeſterday. You likewiſe ſay, you have yet others in your Poſſeſſion, and that ſome of them chuſe to live with you; but you made no Doubt of their coming to us ſome Time hence; as we live better than the <hi>Indians.</hi>
@@ -534,7 +534,7 @@
                </p>
                <p>You muſt remember, that you then not only promiſed Sir <hi>William Johnſon</hi> to deliver up all our Fleſh and Blood, who were Priſoners in your ſeveral Towns and Countries; but that this Promiſe was an expreſs Condition of that Treaty, made between him and you. This Matter lies ſo near to my Heart, that I ſhould not act as your true and ſincere Friend, if I did not ſpeak with the greateſt Freedom and Plainneſs to you about it, and tell you again, that it is impoſſible we can look upon you as our Brethren, if you detain from as our Fleſh and Blood; we cannot ſleep quietly in our Beds, till we ſee them all; our very Dreams are diſturbed on their Account; we demand of you nothing more than the Right which God and Nature has given us.</p>
                <p>
-                  <pb n="10" facs="tcp:009412_0009_0F7404D736E70208"/>
+                  <pb n="10" facs="unknown:009412_0009_0F7404D736E70208"/>
 If we had among us ever ſo few of your Children, would you think that any Profeſſions of Friendſhip we could make to you were ſincere, if we withheld them from you but for one Day? Your Brother <hi>Teedyuſcung</hi> may remember, that at our firſt conſering with him, at <hi>Eaſton,</hi> we had then one of your People in Priſon, and he thought it ſo grievous a Thing, that he told us he could not ſpeak freely to us, and ſhould look upon what we ſaid as coming not from our Hearts, but from our Mouths only, until the ſaid Priſoner was reſtored to him; which was immediately done. Can you then delay doing us that Juſtice, which you your<g ref="char:EOLhyphen"/>ſelves expected and received from us! We do not well underſtand your Meaning, when you ſay, ſome of the Priſoners chuſe to live with you. If you intend it as a Reaſon for not deliver<g ref="char:EOLhyphen"/>ing them up, till they conſent to come, we muſt inform you, that we cannot admit of it. They were born Subjects of our Great King, and as ſuch, he has a Right to demand them. You have, it is true, by the Delivery of ſome of the Priſoners, performed your Agreement in Part; but as we know, and you acknowledge, there are a great many yet behind, we now inſiſt poſitively, that you do not fail, immediately on your Return, to collect every one that remains among you, and deliver them up to us. Relying therefore on your Honeſty, and that you will faithfully comply with an Engagement you have ſo ſolemnly made with us, I do, by this Belt, in Behalf of all His Majeſty's Subjects of this Province, lay Hold of that Covenant Belt, and will keep it faſt, that we, our Children, and Grandchildren, may long enjoy the Bleſſings of Peace, and live together as Brethren, tilt they are old Men.</p>
                <p>
                   <hi>A Belt of Fifteen Rows.</hi>
@@ -596,7 +596,7 @@ If we had among us ever ſo few of your Children, would you think that any Profe
                   <hi>Brother,</hi>
                </p>
                <p>We are well pleaſed to hear what you have ſaid to us, and as we are of different Nations, and ſpeak different Languages, we ſhall take Time to conſider and explain what you have
-<pb n="11" facs="tcp:009412_0010_0F7404D995B42ED0"/>ſaid, and To-morrow, after Breakfaſt, I ſhall give you Notice when we ſhall be ready to ſpeak to you.</p>
+<pb n="11" facs="unknown:009412_0010_0F7404D995B42ED0"/>ſaid, and To-morrow, after Breakfaſt, I ſhall give you Notice when we ſhall be ready to ſpeak to you.</p>
                <p>
                   <hi>A String.</hi>
                </p>
@@ -660,7 +660,7 @@ If we had among us ever ſo few of your Children, would you think that any Profe
                <p>This is all I have to ſay to you. We, the Weſtern <hi>Indians,</hi> have nothing further to ſay to you. You know that we ſpoke three Days ago to you, about the Friendſhip between us.</p>
                <p>
                   <pb n="12"
-                      facs="tcp:009412_0011_0F7404DAA942AEE0"
+                      facs="unknown:009412_0011_0F7404DAA942AEE0"
                       rendition="simple:additions"/>
                   <hi>Brother,</hi>
                </p>
@@ -726,7 +726,7 @@ If we had among us ever ſo few of your Children, would you think that any Profe
                <p>Liſten to me, while I give you an Anſwer to the Speeches that you made to me on <hi>Monday.</hi>
                </p>
                <p>
-                  <pb n="13" facs="tcp:009412_0012_0F7404DB030CC300"/>
+                  <pb n="13" facs="unknown:009412_0012_0F7404DB030CC300"/>
 You ſpoke to me in Behalf of your Grandchildren, the <hi>Tawwas, Twightwees, Wawaghta<g ref="char:EOLhyphen"/>nies,</hi> and <hi>Kickapoes,</hi> acquainting me that they had reſpectively delivered up all our People, who were Priſoners in their Towns during the War</p>
                <p>
                   <hi>Brether,</hi>
@@ -778,7 +778,7 @@ You ſpoke to me in Behalf of your Grandchildren, the <hi>Tawwas, Twightwees, Wa
                <p>You deſired we would open a Trade with you, and the other Weſtern Nations, and not be too hard in our dealing with them. I muſt addreſs my Anſwer not only to you, but to the <hi>Delawares,</hi> and all preſent, who I deſire may liſten attentively to it.</p>
                <p>
                   <pb n="14"
-                      facs="tcp:009412_0013_0F7404DBB7A76408"
+                      facs="unknown:009412_0013_0F7404DBB7A76408"
                       rendition="simple:additions"/>
                   <hi>Brethren,</hi>
                </p>
@@ -813,7 +813,7 @@ You ſpoke to me in Behalf of your Grandchildren, the <hi>Tawwas, Twightwees, Wa
                <p>I am very much pleaſed with what you have ſaid; you ſpeak like an honeſt Man, and I hope that the Friendſhip that has been made between us and our Brethren, the <hi>Delawares,</hi> will remain firm, as long as the Sun ſhines, and the Rivers run.</p>
                <p>
                   <pb n="15"
-                      facs="tcp:009412_0014_0F7404DC78C67838"
+                      facs="unknown:009412_0014_0F7404DC78C67838"
                       rendition="simple:additions"/>
 Teedyuſcung <hi>then ſtood up, and addreſſing himſelf to the Governor, ſaid,</hi>
                </p>
@@ -875,7 +875,7 @@ Teedyuſcung <hi>then ſtood up, and addreſſing himſelf to the Governor, ſai
                </p>
                <p>It is now three Years ſince you firſt demanded of us your Fleſh and Blood. Now hear me, as to what I and all our Nations and our Allies, that live as far as the Sun-ſetting, have done.</p>
                <p>
-                  <pb n="16" facs="tcp:009412_0015_0F7404DDD0A5B030"/>
+                  <pb n="16" facs="unknown:009412_0015_0F7404DDD0A5B030"/>
                   <hi>Brother,</hi>
                </p>
                <p>I aſſure you, in Behalf of all of us preſent, and the Weſtern <hi>Indians,</hi> of whom you have been demanding your Fleſh and Blood, that I have them here, and that it is not my Fault, neither can I ſay our Maker has been the Cauſe, but the <hi>French</hi> have been the Cauſe why you have not had them ſooner.</p>
@@ -923,7 +923,7 @@ Teedyuſcung <hi>then ſtood up, and addreſſing himſelf to the Governor, ſai
                </p>
                <p>We have done what we can, and that is the Reaſon why you ſee ſo many of your Fleſh and Blood; ſome <hi>Indians</hi> part with them with Reluctance, and want to keep them longer;
 <pb n="17"
-                      facs="tcp:009412_0016_0F7404DE8671F6A0"
+                      facs="unknown:009412_0016_0F7404DE8671F6A0"
                       rendition="simple:additions"/>they are unwilling to part with them, this brings a great deal of Trouble on us, the <hi>Six Nations.</hi>
                </p>
                <p>
@@ -962,7 +962,7 @@ Teedyuſcung <hi>then ſtood up, and addreſſing himſelf to the Governor, ſai
                </p>
                <p>I have brought an <hi>Engliſh</hi> Priſoner, who I love as my own Wife: I have a young Child by her. You know it is very hard for a Man to part with his Wife. I have delivered her, therefore take Care of her, and keep her ſafe, that ſhe dont make her Eſcape.</p>
                <p>
-                  <pb n="18" facs="tcp:009412_0017_0F7404DEB6BC5440"/>
+                  <pb n="18" facs="unknown:009412_0017_0F7404DEB6BC5440"/>
                   <hi>Brother</hi> Onas,</p>
                <p>Our Grandfathers uſed to tell us, we ſhould keep faſt Hold of the Chain of Friendſhip, and always adviſed us to obſerve it; but now, in latter Days, as ſoon as I came acroſs the Hatchet, I got Hold of it, and really I did not know what I was about, and ſtuck it into your Heads. By this Belt, I take the Hatchet out of your Head; it belongs to you and the <hi>French;</hi> you are both of one Colour. It has been the Fault of the <hi>French</hi> that we ſtruck you, and therefore we take the Hatchet out of your Head.</p>
                <p>
@@ -1014,7 +1014,7 @@ Teedyuſcung <hi>then ſtood up, and addreſſing himſelf to the Governor, ſai
                   <hi>Brother</hi> Onas,</p>
                <p>I will mention our old Friendſhip; I will make it new again; I will brighten up our old Chain of Friendſhip. Our Grandfathers uſed to tell one another they had one Heart, and
 <pb n="19"
-                      facs="tcp:009412_0018_0F7404E0D8C98CF0"
+                      facs="unknown:009412_0018_0F7404E0D8C98CF0"
                       rendition="simple:additions"/>here it is; they both had Hold of it: They uſed to tell one another they had one Head, here it is. I tell you the ſame; you and we have one Head, and one Heart. We Fourteen Na<g ref="char:EOLhyphen"/>tions tell you ſo.</p>
                <p>They delivered a Belt of Nine Rows, repreſenting the Figure of two Men in the Middle, with a Heart between them, and Six Diamonds on each Side; one of the Men repreſents the <hi>Indians,</hi> the other the <hi>Engliſh.</hi>
                </p>
@@ -1056,7 +1056,7 @@ Teedyuſcung <hi>then ſtood up, and addreſſing himſelf to the Governor, ſai
                </p>
                <p>My Couſins,</p>
                <p>As ſoon as I came there, <hi>Teedyuſcung</hi> began to make his Complaints that he had no Fire, ſo ſays I, Couſin, there is certainly ſome Fire, for I made one here for the <hi>Shawaneſe,</hi>
-                  <pb n="20" facs="tcp:009412_0019_0F7404E188A10F88"/>
+                  <pb n="20" facs="unknown:009412_0019_0F7404E188A10F88"/>
                   <hi>(Cacawaſheca)</hi> and I made another Fire at <hi>Shamokin,</hi> for <hi>Alammapis;</hi> another Fire I made at <hi>Wighalouſin;</hi> another Fire I made at <hi>Diahoga.</hi> All thoſe Fires are there yet. The Fire at <hi>Wighalouſin</hi> is a good Fire, for I heard no bad Stories there; that Fire at <hi>Shamokin</hi> is not yet out; if any Body ſtirs it, it will ſoon blaze. I made the Fire at <hi>Wyoming</hi> for the <hi>Shawaneſe;</hi> perhaps they will ſtill return to that Place. Then I came along as far as <hi>Harris</hi>'s Ferry; there I heard another Piece of bad News from <hi>Teedyuſcung,</hi> who ſaid he had got a Sort of Poiſon that will give the <hi>Indians</hi> the Bloody Flux, and as ſoon as they come, he would give it to them, that they might get the Flux, and die along the Road as they go. But, notwith<g ref="char:EOLhyphen"/>ſtanding theſe Diſcouragements, I came along, and got here. I now ſuſpect there is a Bag of Poiſon ſomewhere about this Camp, that will give us the Flux as we go Home; and I think it will be great Shame, if it ſhould be ſo, becauſe our <hi>Engliſh</hi> Brethren ſent for us; and if any of us ſhould die, it will appear to them as if they had loſt ſo many of their own People, becauſe it was they that ſent for us.</p>
                <p>Now, <hi>Teedyuſcung,</hi> I muſt teach you better; I will correct you; you muſt not talk of ſuch a Thing, for if any of us die, it will be ſaid <hi>Teedyuſcung</hi> was the Cauſe of it; ſo you ſhould not ſay ſuch Things. By this Belt I make a Fire for <hi>Teedyuſcung,</hi> at <hi>Wyoming;</hi> I tell him to ſit there by the Fire Side, and watch that Fire; but I dont give it to him, for our <hi>Engliſh</hi> Brethren caſt an Eye upon that Land; therefore I ſay to <hi>Teedyuſcung,</hi> watch that Fire, and if any White People come there, tell them to go away, for that Land belongs to your Uncles, the <hi>Six Nations.</hi> The <hi>Six Nations</hi> want to keep up that Fire, that they may hear from their Brethren the <hi>Engliſh,</hi> and others.</p>
                <p>The Belt was given to <hi>Tipiſcohan.</hi>
@@ -1083,7 +1083,7 @@ Teedyuſcung <hi>then ſtood up, and addreſſing himſelf to the Governor, ſai
             </div>
             <div type="days_proceedings">
                <pb n="21"
-                   facs="tcp:009412_0020_0F7404E1B78F9260"
+                   facs="unknown:009412_0020_0F7404E1B78F9260"
                    rendition="simple:additions"/>
                <head>Lancaſter, Auguſt 22, 1762. <hi>At a</hi> CONFERENCE <hi>at</hi> John Hambright<hi>'s (where the Governor delivered to the</hi> Delaware Indians <hi>the Preſents made to them, by himſelf and the Province)</hi>
                </head>
@@ -1121,7 +1121,7 @@ Teedyuſcung <hi>then ſtood up, and addreſſing himſelf to the Governor, ſai
                <p>We have had frequent Opportunities of ſhaking you by the Hand, ſince the War, and you, upon many Occaſions, received the ſtrongeſt Proofs of our Reconciliation and Friendſhip for you. Nevertheleſs, as we obſerve that a greater Number than common of your Friends are come down with you, in order to enable you to ſhew your Kindneſs to them, we think fit to make you this additional Preſent.</p>
                <p>And now, Brothers, I heartily wiſh the Peace and Friendſhip, which have been renewed betwixt us at this Treaty, may continue and grow ſtronger, as long as the Sun ſhall ſhine, or the Rivers run; to which you may be aſſured we, on our Parts, ſhall contribute to the utmoſt of our Power, as we doubt not you will alſo on yours.</p>
                <p>After the Governor had finiſhed his Speeches to <hi>Beaver</hi> and <hi>Teedyuſcung,</hi> the latter roſe up, and addreſſing himſelf to <hi>Beaver,</hi> deſired him to take Notice, that he now delivered up all his Right and Claim to the Lands on the River <hi>Delaware,</hi> that have been in Diſpute between him and the Proprietaries of <hi>Pennſylvania;</hi> and that he now, as he <hi>(Beaver)</hi> ſaw, received
-<pb n="22" facs="tcp:009412_0021_0F7404E279038520"/>this Money and Goods from his Brethren the <hi>Engliſh.</hi> He further deſired <hi>Beaver</hi> to acquaint all the <hi>Indians</hi> at <hi>Allegheny,</hi> that the <hi>Delaware</hi> Nation have now no Right or Claim to any of the Lands on the Waters of the River <hi>Delaware,</hi> that have been in Diſpute.</p>
+<pb n="22" facs="unknown:009412_0021_0F7404E279038520"/>this Money and Goods from his Brethren the <hi>Engliſh.</hi> He further deſired <hi>Beaver</hi> to acquaint all the <hi>Indians</hi> at <hi>Allegheny,</hi> that the <hi>Delaware</hi> Nation have now no Right or Claim to any of the Lands on the Waters of the River <hi>Delaware,</hi> that have been in Diſpute.</p>
                <p>
                   <hi>Then turning to the Governor, ſaid to him,</hi>
                </p>
@@ -1156,7 +1156,7 @@ Teedyuſcung <hi>then ſtood up, and addreſſing himſelf to the Governor, ſai
                   <hi>Brother</hi> Onas,</p>
                <p>I muſt tell you again, theſe Soldiers muſt go away from <hi>Shamokin</hi> Fort; I deſire it, and let there be only Traders live there; you know who are the honeſt People; we deſire that
 <pb n="23"
-                      facs="tcp:009412_0022_0F7404E882E64388"
+                      facs="unknown:009412_0022_0F7404E882E64388"
                       rendition="simple:additions"/>only honeſt People may live there, and that you will not be too hard with us, when they may buy our Skins and Furs, and ſuch Things as we may have to ſell. This will be the Way for us to live peaceably together; but for you to keep Soldiers there, is not the Way to live peaceable. Your Soldiers are very often unruly, and our Warriors are unruly, and when ſuch get together they do not agree. For as you have now made Peace with all our Nations, there is no Occaſion for Soldiers to live there any longer.</p>
                <p>
                   <hi>Brother</hi> Onas,</p>
@@ -1192,7 +1192,7 @@ Teedyuſcung <hi>then ſtood up, and addreſſing himſelf to the Governor, ſai
                </p>
                <p>
                   <pb n="24"
-                      facs="tcp:009412_0023_0F7404E3C0330298"
+                      facs="unknown:009412_0023_0F7404E3C0330298"
                       rendition="simple:additions"/>
                   <hi>Brother</hi> Onas,</p>
                <p>I will alſo acquaint you of another Trading Place, which is the Place they call <hi>Patowmack,</hi> in <hi>Maryland.</hi> One <hi>Dantel Creſſap</hi> has ſent me Word, by many Warriors, this Spring, and he tells me, that if the Governor would order him to keep a Store there, he would provide every Thing for the Warriors; for his Father uſed-to maintain all the <hi>Indian</hi> Warriors that paſſed and re-paſſed that Way. He likewiſe tells me, if the Governor would let him know what he thould do, and if he ſhould be allowed to do this, he would provide for the War<g ref="char:EOLhyphen"/>riors. We now deſire, that he may be the Perſon appointed to receive Meſſages, and that you would acquaint the Governor of <hi>Maryland</hi> with this, that the Warriors may paſs and re<g ref="char:EOLhyphen"/>paſs that Way, without any Moleſtation.</p>
@@ -1237,7 +1237,7 @@ Teedyuſcung <hi>then ſtood up, and addreſſing himſelf to the Governor, ſai
                   <hi>Brother</hi> Onas,</p>
                <p>You may remember, three Years ago, that this Man (pointing to <hi>Samuel Curtiſs</hi>) men<g ref="char:EOLhyphen"/>tioned ſomething to you about his Daughter, that was ſtolen from him in <hi>Dorſet</hi> County, in
 <pb n="25"
-                      facs="tcp:009412_0024_0F7404E4A2F07928"
+                      facs="unknown:009412_0024_0F7404E4A2F07928"
                       rendition="simple:additions"/>
                   <hi>Maryland,</hi> about Fourteen Years ago. I ſpoke to you once before about it, and I have heard nothing from you concerning her.</p>
                <p>
@@ -1296,7 +1296,7 @@ Teedyuſcung <hi>then ſtood up, and addreſſing himſelf to the Governor, ſai
                <p>
                   <hi>Brother</hi> Onas,</p>
                <p>My Couſins, that live at <hi>Wighalouſin,</hi> tell me, they went to the <hi>Eaſton</hi> Treaty to hear ſome<g ref="char:EOLhyphen"/>thing about the Land Affair, between the Governor and <hi>Teedyuſcung;</hi> theſe, my Couſins, went to the Governor, to enquire about their own Lands. The Governor made Anſwer to them, and told them, that he had bought their Land from their Uncles.—What they wanted to know about their Land is this, that if they found it was not ſold by the <hi>Six Nations,</hi> they
-<pb n="26" facs="tcp:009412_0025_0F7404E50645D1D8"/>think they ought to be paid for it. And ſince my Couſins made this Complaint to the Governor, at <hi>Eaſton,</hi> they have aſked me, whether I had ſold the Land, or not. And I told them, that I did not know that I had ſold any Lands belonging to my Couſins; but (ſpeaking to the Governor) ſaid, you know it, becauſe you have Writings.</p>
+<pb n="26" facs="unknown:009412_0025_0F7404E50645D1D8"/>think they ought to be paid for it. And ſince my Couſins made this Complaint to the Governor, at <hi>Eaſton,</hi> they have aſked me, whether I had ſold the Land, or not. And I told them, that I did not know that I had ſold any Lands belonging to my Couſins; but (ſpeaking to the Governor) ſaid, you know it, becauſe you have Writings.</p>
                <p>
                   <hi>He further added,</hi>
                </p>
@@ -1344,7 +1344,7 @@ Teedyuſcung <hi>then ſtood up, and addreſſing himſelf to the Governor, ſai
                </p>
                <p>
                   <pb n="27"
-                      facs="tcp:009412_0026_0F7404EA1C5C44E8"
+                      facs="unknown:009412_0026_0F7404EA1C5C44E8"
                       rendition="simple:additions"/>
                   <hi>Brethren,</hi>
                </p>
@@ -1381,7 +1381,7 @@ Teedyuſcung <hi>then ſtood up, and addreſſing himſelf to the Governor, ſai
                </p>
                <p>I think it my Duty to tell you, that ſuch of our White Men who want to ſtay with you, are either Deſerters from the Army, or have behaved ill amongſt us, and were they to ſtay with
 <pb n="28"
-                      facs="tcp:009412_0027_0F7404E576F0B280"
+                      facs="unknown:009412_0027_0F7404E576F0B280"
                       rendition="simple:additions"/>you, they would be very apt to be very miſchievous, and make ill Blood between us; we de<g ref="char:EOLhyphen"/>ſire therefore you will not encourage them, but deliver all ſuch up as you have amongſt you; and if you place any Dependance upon them, either in Peace or War, they will certainly de<g ref="char:EOLhyphen"/>ceive you, as they have dene us.</p>
                <p>
                   <hi>A String.</hi>
@@ -1443,7 +1443,7 @@ Teedyuſcung <hi>then ſtood up, and addreſſing himſelf to the Governor, ſai
                </p>
                <p>
                   <pb n="29"
-                      facs="tcp:009412_0028_0F7404E7ABD5D128"
+                      facs="unknown:009412_0028_0F7404E7ABD5D128"
                       rendition="simple:additions"/>
                   <hi>Brethren,</hi>
                </p>
@@ -1480,7 +1480,7 @@ Teedyuſcung <hi>then ſtood up, and addreſſing himſelf to the Governor, ſai
                <p>The Proprietaries of <hi>Pennſylvania</hi> have never forced a Purchaſe of Lands from any of their Brethren, the <hi>Indians,</hi> ſince they have owned this Province. It is very well known, that the Native <hi>Indians</hi> very readily ſold their Lands to the Proprietaries, as ſoon as he arrived here in their Country, about Eighty Years ago. And about Thirty Years ago the <hi>Six Nations,</hi> obſerving greater Numbers of White People than thoſe old Purchaſes could accommodate, voluntarily ſold to the preſent Proprietaries ſome Lands, lying further Weſt. And their Number ſtill increaſing, at <hi>Albany,</hi> in the Year 1754, they ſold them more Lands, as far as the Limits of the Province to the Weſt, to be bounded by a Line agreed upon to the North<g ref="char:EOLhyphen"/>ward.</p>
                <p>And let me remind you of their Kindneſs to you, in this Reſpect; for no ſooner were they informed that you repented of this laſt Sale, than they immediately gave Orders to their Agents here, to execute a Releaſe to you for all the Lands over the <hi>Allegheny Hills,</hi> which was accordingly done at <hi>Eaſton,</hi> in the Year 1758, in public Council; when a Draught of the Part of the Country, which the Proprietaries held, by the <hi>Six Nations</hi> Deed, on this Side the <hi>Allegheny Hills,</hi> was ſhewn to, and approved by, the <hi>Six Nations,</hi> ſome of whom are now preſent; and the Draught, and Copy of the Proprietary Releaſe, were delivered in open Council to them, who returned their hearty Thanks to the Proprietaries for their Goodneſs. I hear thoſe Chiefs put the Releaſe and Draught into Sir <hi>William Johnſon</hi>'s Hands, and deſired him to keep it for them, together with many other Deeds and Papers, at the ſame Time. Now, Brethren, as no Time has been fixed for the running of the North Line, or Boundary of this laſt Purchaſe, I deſire you to apply to Sir <hi>William Johnſon,</hi> and whenever you and he ſhall think it neceſſary to run that Line, I ſhall always be ready to join with you; and until this be done, agreeable to your Deed, I ſhall not ſuffer any of my People to ſettle beyond it. By your Speech it appears to me, that you think the Line is fixed at <hi>Mohonoy;</hi> but by the Deed, which I have not brought with me, and ſo cannot now produce it, to the beſt of my Re<g ref="char:EOLhyphen"/>membrance, the Line begins at a certain Mountain, by the River Side, about a Mile above
 <pb n="30"
-                      facs="tcp:009412_0029_0F7404EAC420F220"
+                      facs="unknown:009412_0029_0F7404EAC420F220"
                       rendition="simple:additions"/>the Mouth of <hi>Mohonoy.</hi> I muſt therefore deſire, that none of your People be permitted to diſturb any Perſons within the Limits of that Purchaſe, till that Line be ſettled.</p>
                <p>
                   <hi>A Belt.</hi>
@@ -1522,7 +1522,7 @@ Teedyuſcung <hi>then ſtood up, and addreſſing himſelf to the Governor, ſai
                <p>Whereupon the Conference broke up for the preſent.</p>
             </div>
             <div type="days_proceedings">
-               <pb n="31" facs="tcp:009412_0030_0F7404EB9AA65F58"/>
+               <pb n="31" facs="unknown:009412_0030_0F7404EB9AA65F58"/>
                <head>
                   <hi>At a</hi> CONFERENCE <hi>with the</hi> Indians, <hi>held at</hi> Lancaſter, <hi>on</hi> Friday, <hi>the Twenty<g ref="char:EOLhyphen"/>ſeventh of</hi> Auguſt, 1762.</head>
                <p>PRESENT, <hi>The Honourable</hi> JAMES HAMILTON, <hi>Eſquire, &amp;c. &amp;c. as before.</hi>
@@ -1564,7 +1564,7 @@ Teedyuſcung <hi>then ſtood up, and addreſſing himſelf to the Governor, ſai
                </p>
                <p>I am glad to hear you, as you ſay it did not come from you, but that it came from our Couſins; I thought it had been your own Propoſal. I really quite wonder at my Couſins, that they did not tell me this; but ſince they have ſwallowed up all their own Land, and live to the Weſtward, I believe they are growing proud. The Lands do belong to me where they live; I conquered it with my Sword; but they are grown proud, and will, I ſuppoſe, not own us for their Uncles.</p>
                <p>
-                  <pb n="32" facs="tcp:009412_0031_0F7404EC37985878"/>
+                  <pb n="32" facs="unknown:009412_0031_0F7404EC37985878"/>
 The Governor anſwered, that if he expreſſed himſelf in ſuch a Manner to them, as if the Application did come from himſelf, he was miſtaken; for that he meant to expreſs himſelf, that he did it in Conſequence of the <hi>Delawares</hi> deſiring a Trade with us, and that our Goods might come cheaper to them, and that he knew of no other Method of rendering them ſo, but by Means of a Water Carriage; and therefore he told the <hi>Delawares</hi> that he would apply to their Uncles, the <hi>Six Nations,</hi> for Liberty to carry our Goods up the Weſt Branch of <hi>Saſ<g ref="char:EOLhyphen"/>quehannah;</hi> and he deſired that they ſhould not think the <hi>Delawares</hi> in Fault, on this Account, as they did not propoſe this Method to him; and that no Blame ſhould be imputed to them at all in this Affair; and that as he found it diſagreeable to the <hi>Six Nations,</hi> he would ſay nothing further about it.</p>
                <p>
                   <hi>The Governor then proceeded to ſpeak to the</hi> Six Nations <hi>at follows.</hi>
@@ -1600,7 +1600,7 @@ The Governor anſwered, that if he expreſſed himſelf in ſuch a Manner to the
                <p>Now, Brethren, I muſt acquaint you, that all the Way from <hi>Harris's</hi> Ferry to <gap reason="illegible: indecipherable" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap>, the White People are ſettled very thick, ſo that ſhould your Warriors now uſe that Path, fre<g ref="char:EOLhyphen"/>quent Differences between them and the Inhabitants might probably ariſe, by means whereof, the Peace ſo lately eſtabliſhed between us may be endangered. And I muſt deſire you, for
-<pb n="33" facs="tcp:009412_0032_0F7404EE6850C148"/>this Reaſon, to uſe your beſt Intereſt with your Warriors, in caſe they are determined to go to War, that they would purſue the old War Path from <hi>Shamokin,</hi> which lies along the Foot of the <hi>Allegheny Hills,</hi> and which is the neareſt Way they can go to their Enemies Country.</p>
+<pb n="33" facs="unknown:009412_0032_0F7404EE6850C148"/>this Reaſon, to uſe your beſt Intereſt with your Warriors, in caſe they are determined to go to War, that they would purſue the old War Path from <hi>Shamokin,</hi> which lies along the Foot of the <hi>Allegheny Hills,</hi> and which is the neareſt Way they can go to their Enemies Country.</p>
                <p>
                   <hi>A Belt.</hi>
                </p>
@@ -1672,7 +1672,7 @@ The Governor anſwered, that if he expreſſed himſelf in ſuch a Manner to the
                   <hi>A String.</hi>
                </p>
                <p>
-                  <pb n="34" facs="tcp:009412_0033_0F7404EF26590C10"/>
+                  <pb n="34" facs="unknown:009412_0033_0F7404EF26590C10"/>
                   <hi>Brethren,</hi>
                </p>
                <p>By this Belt you tell me, that your Grandfathers adviſed you to keep faſt Hold of the Chain of Friendſhip, and that you, the <hi>Mohawks, Oneidas, Senecas, Onondagoes, Cayugas,</hi> and <hi>Tuſ<g ref="char:EOLhyphen"/>caroras,</hi> have brought about the Peace; that you have more Brothers, Friends and Allies to the Weſtward, as far as the Sun ſets, ſo many that you cannot tell their Numbers; and in Behalf of them and yourſelves, who now make up fourteen Nations, you make our old Friendſhip new again, and brighten the Covenant Chain.</p>
@@ -1710,7 +1710,7 @@ The Governor anſwered, that if he expreſſed himſelf in ſuch a Manner to the
                </p>
                <p>
                   <hi>KINDERUNTIE,</hi> in Company with ſome other <hi>Six Nation Indians,</hi> having, agreea<g ref="char:EOLhyphen"/>ble to the Governor's Deſire, brought <hi>Peter Weeſe,</hi> one of the Captives, mentioned to him in the old <hi>Lutberan</hi> Church; the Governor took <hi>Peter</hi> into a private Room from the
-<pb n="35" facs="tcp:009412_0034_0F7404EF3955A878"/>
+<pb n="35" facs="unknown:009412_0034_0F7404EF3955A878"/>
                   <hi>Indians,</hi> to confer with him reſpecting his Inclination to ſtay among the <hi>Indians,</hi> left he ſhould be under any Fear of ſpeaking his Mind freely in their Preſence; when, after a free Conference, <hi>Peter</hi> deſired he might not now be detained among the White People, but left to his Liberty to return with the <hi>Indians,</hi> and that on his Way he would call on his Brother, who lived near <hi>Pittſburgh,</hi> and ſpeak with him, and return to the Governor in the Spring, and gave ſeveral Reaſons for his ſtaying with them this Winter. On which the Governor conſented to his Requeſt, and went with him to the <hi>Indians;</hi> and then acquainted the <hi>Six Nation</hi> Chiefs preſent, that as he had now conſented that the Priſoner, <hi>Peter Weeſe,</hi> ſhould ſtay among them, agreeable to his Inclination, and their Deſire, he hoped they would be as honourable, on their Part, in delivering up the other Priſoner, who was a Deſerter from the Army, and now in their Camp; and that they would do every Thing in their Power, on their Return to their own Country, to collect every Priſoner among them, and deliver them up faithfully, agreeable to their Promiſes.</p>
                <p>Kinderuntie <hi>anſwered,</hi>
                </p>
@@ -1747,7 +1747,7 @@ The Governor anſwered, that if he expreſſed himſelf in ſuch a Manner to the
                </p>
                <p>Who complain againſt <hi>Nathaniel Holland,</hi> at <hi>Fort-Auguſta,</hi> as a Man who always treats the <hi>Indians</hi> who come there with ill Uſage, and bad Language, inſomuch that they are very often ſo provoked as to do him Violence; and as the public Buſineſs is now over, they intreat the Governor to remove him, and put a more quiet Man in his Place. They further ſay, that as the Governor has acquainted them that the War has occaſioned a Riſe in the Price of Goods, they hope the Governor will give Orders that they may be paid a higher Price for their Skins and Furs in Proportion.</p>
                <p>
-                  <pb n="36" facs="tcp:009412_0035_0F7404E93A147050"/>
+                  <pb n="36" facs="unknown:009412_0035_0F7404E93A147050"/>
 The Governor made Anſwer, that he would take this Matter into Conſideration, and do in it whatever was thought reaſonable; and further acquainted them, that the ſmall Preſents they had requeſted of him the Day before ſhould be granted them.</p>
             </div>
             <div type="days_proceedings">
